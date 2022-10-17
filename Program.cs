@@ -15,12 +15,12 @@ string playAgainInput = "";
 while (playAgain == true) {
 
     //main program
-    Console.WriteLine("Hello, what is your name? ");
+    Console.Write("Hello, what is your name? ");
     string myName = Console.ReadLine();
     Console.WriteLine("Greetings, " + myName + ". It's nice to meet you!");
 
     //play again prompt with input validation
-    Console.WriteLine("Would you like to play again? Y/N");
+    Console.Write("\nWould you like to play again? Y/N: ");
     while (answerCheck == true) {
         playAgainInput = Console.ReadLine();
         playAgainInput = playAgainInput.ToLower();
