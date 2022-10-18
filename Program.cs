@@ -22,8 +22,7 @@ while (playAgain == true) {
     //play again prompt with input validation
     Console.Write("\nWould you like to play again? Y/N: ");
     while (answerCheck == true) {
-        playAgainInput = Console.ReadLine();
-        playAgainInput = playAgainInput.ToLower();
+        playAgainInput = Console.ReadLine().ToLower();
         EvaluatePlayAgain();
     }
 }
