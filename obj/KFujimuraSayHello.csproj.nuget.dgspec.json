@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/KFujimuraGitHubChallenge/KFujimuraSayHello/KFujimuraSayHello.csproj": {}
+    "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraSayHello/KFujimuraSayHello.csproj": {}
   },
   "projects": {
-    "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/KFujimuraGitHubChallenge/KFujimuraSayHello/KFujimuraSayHello.csproj": {
+    "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraSayHello/KFujimuraSayHello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/KFujimuraGitHubChallenge/KFujimuraSayHello/KFujimuraSayHello.csproj",
+        "projectUniqueName": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraSayHello/KFujimuraSayHello.csproj",
         "projectName": "KFujimuraSayHello",
-        "projectPath": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/KFujimuraGitHubChallenge/KFujimuraSayHello/KFujimuraSayHello.csproj",
+        "projectPath": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraSayHello/KFujimuraSayHello.csproj",
         "packagesPath": "/Users/kennethfujimura/.nuget/packages/",
-        "outputPath": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1/Homework/KFujimuraGitHubChallenge/KFujimuraSayHello/obj/",
+        "outputPath": "/Users/kennethfujimura/Documents/Code Stack Projects/Level 1 Front End Developemnt/Homework/KFujimuraGitHubChallenge/KFujimuraSayHello/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kennethfujimura/.nuget/NuGet/NuGet.Config"
