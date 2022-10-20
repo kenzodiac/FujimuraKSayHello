@@ -1,5 +1,5 @@
 ﻿//Kenneth Fujimura
-//10-17-2022
+//10-20-2022
 //GitHub Challenge #1 - Say Hello
 //This is a console project that will ask a user their name and report it back to them with a greeting.
 //Peer Review by:
@@ -15,12 +15,12 @@ string playAgainInput = "";
 while (playAgain == true) {
 
     //main program
-    Console.Write("Hello, what is your name? ");
+    Console.WriteLine("Hello, what is your name? ");
     string myName = Console.ReadLine();
     Console.WriteLine("Greetings, " + myName + ". It's nice to meet you!");
 
     //play again prompt with input validation
-    Console.Write("\nWould you like to play again? Y/N: ");
+    Console.WriteLine("\nWould you like to play again? Y/N: ");
     while (answerCheck == true) {
         playAgainInput = Console.ReadLine().ToLower();
         EvaluatePlayAgain();
